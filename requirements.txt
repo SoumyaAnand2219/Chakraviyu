@@ -10,3 +10,4 @@ websocket-client
 openpyxl
 logzero
 requests
+plotly
