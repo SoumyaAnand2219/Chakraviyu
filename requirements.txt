@@ -1,0 +1,12 @@
+pandas
+numpy
+streamlit
+mplfinance
+pyotp
+scikit-learn
+tslearn
+smartapi-python
+websocket-client
+openpyxl
+logzero
+requests
